@@ -159,7 +159,12 @@ Amazon CloudWatch provides real-time monitoring for your Amazon Web Services (AW
 ![image](https://github.com/Praveenbose/Cloud-Technology-Assignment/assets/169264693/a469ce8a-68e7-494e-9095-7d5908a16750)
                                                                  Fig 2: AWS CloudWatch
 
-                                                                 
+8. Recommended Solutions
+
+8.1 Aspect 1: Web Hosting 
+
+To address server downtime and scalability issues, our recommendation is to use AWS EC2. Integrating AWS EC2 will enable BookShow to flexibly adjust its computing resources according to fluctuating demand, particularly during peak ticketing periods for popular events. This means that the platform can instantly increase server capacity to handle high user traffic without manual input, ensuring website responsiveness and preventing slowdowns or crashes. Conversely, during low-demand periods, EC2 can reduce resources to optimize cost efficiency by utilizing only the required capacity. Let's compare AWS EC2 with on-premises servers.
+
 
 
                                                                  
